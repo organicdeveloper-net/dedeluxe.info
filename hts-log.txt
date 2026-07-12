@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 Jul 2026 21:05:14 at https://dedeluxe.info/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dedeluxe.info/ -O1 "C:\Users\TechnotesSRVR\Documents\GitHubSITES\dedeluxe.info\dedeluxe.info" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:05:32	Error: 	"Service Temporarily Unavailable" (503) at link https://dedeluxe.info/xmlrpc.php?rsd (from https://dedeluxe.info/)
+21:05:43	Warning: 	Moved Permanently for https://dedeluxe.info/?p=291
+21:05:43	Warning: 	File has moved from https://dedeluxe.info/?p=291 to https://dedeluxe.info/purplenotebook/
+21:05:44	Warning: 	Moved Permanently for https://dedeluxe.info/?p=1
+21:05:44	Warning: 	File has moved from https://dedeluxe.info/?p=1 to https://dedeluxe.info/hello-world/
+21:05:44	Warning: 	Moved Permanently for https://dedeluxe.info/?p=222
+21:05:44	Warning: 	File has moved from https://dedeluxe.info/?p=222 to https://dedeluxe.info/lorem-ipsum-3/
+21:05:44	Warning: 	Moved Permanently for https://dedeluxe.info/?p=60
+21:05:44	Warning: 	File has moved from https://dedeluxe.info/?p=60 to https://dedeluxe.info/lorem-ipsum-2/
+21:05:45	Warning: 	Moved Permanently for https://dedeluxe.info/?p=223
+21:05:45	Warning: 	File has moved from https://dedeluxe.info/?p=223 to https://dedeluxe.info/lorem-ipsum/
+21:06:50	Warning: 	HTML file (308130 bytes) retransferred due to lack of cache: https://dedeluxe.info/wp-json/
+21:07:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/wp/v2/pages/58
+21:07:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2F
+21:07:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2F&format=xml
+21:07:58	Warning: 	HTML file (489 bytes) retransferred due to lack of cache: https://dedeluxe.info/xmlrpc.php?rsd
+21:07:59	Error: 	"Service Temporarily Unavailable" (503) at link https://dedeluxe.info/xmlrpc.php?rsd (from https://dedeluxe.info/)
+21:07:59	Warning: 	HTML file (97028 bytes) retransferred due to lack of cache: https://dedeluxe.info/purplenotebook/
+21:08:29	Warning: 	HTML file (115054 bytes) retransferred due to lack of cache: https://dedeluxe.info/hello-world/
+21:08:32	Warning: 	HTML file (773 bytes) retransferred due to lack of cache: https://dedeluxe.info/?p=291
+21:08:33	Warning: 	Moved Permanently for https://dedeluxe.info/?p=291
+21:08:33	Warning: 	File has moved from https://dedeluxe.info/?p=291 to https://dedeluxe.info/purplenotebook/
+21:09:01	Warning: 	HTML file (116069 bytes) retransferred due to lack of cache: https://dedeluxe.info/lorem-ipsum/
+21:09:34	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://dedeluxe.info/?p=1
+21:09:36	Warning: 	Moved Permanently for https://dedeluxe.info/?p=1
+21:09:36	Warning: 	File has moved from https://dedeluxe.info/?p=1 to https://dedeluxe.info/hello-world/
+21:09:36	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://dedeluxe.info/?p=222
+21:09:37	Warning: 	Moved Permanently for https://dedeluxe.info/?p=222
+21:09:37	Warning: 	File has moved from https://dedeluxe.info/?p=222 to https://dedeluxe.info/lorem-ipsum-3/
+21:09:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2Fpurplenotebook%2F
+21:09:39	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://dedeluxe.info/?p=60
+21:09:40	Warning: 	Moved Permanently for https://dedeluxe.info/?p=60
+21:09:40	Warning: 	File has moved from https://dedeluxe.info/?p=60 to https://dedeluxe.info/lorem-ipsum-2/
+21:10:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2Fhello-world%2F&format=xml
+21:10:40	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://dedeluxe.info/?p=223
+21:10:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2Fhello-world%2F
+21:10:41	Warning: 	Moved Permanently for https://dedeluxe.info/?p=223
+21:10:41	Warning: 	File has moved from https://dedeluxe.info/?p=223 to https://dedeluxe.info/lorem-ipsum/
+21:10:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2Florem-ipsum-3%2F
+21:10:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2Florem-ipsum-2%2F
+21:11:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dedeluxe.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdedeluxe.info%2Florem-ipsum%2F&format=xml
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 2 seconds : 103 links scanned, 109 files written (13959276 bytes overall) [13095943 bytes received at 36176 bytes/sec], 1144542 bytes transferred using HTTP compression in 9 files, ratio 18%, 3.3 requests per connection
+(2 errors, 39 warnings, 0 messages)
